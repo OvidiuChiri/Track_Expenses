@@ -1,5 +1,5 @@
 # Track_Expenses
-Graphical User Interfeace(GUI) based Expense Tracker application with Tkinter, Tkcalendar, and SQLite libraries in Python.
+Graphical User Interface (GUI) based Expense Tracker application with Tkinter, Tkcalendar, and SQLite libraries in Python.
 
 ## Appendix.
 Expense Tracker is a application allowing users to record their money inflow and outflow accurately.
